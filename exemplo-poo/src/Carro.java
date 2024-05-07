@@ -1,6 +1,5 @@
 public class Carro extends Veiculo{
 
-
     public void ligar(){
         verCambio();
         verCombustivel();
